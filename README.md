@@ -11,24 +11,23 @@ This project sets up a production-ready Retrieval-Augmented Generation (RAG) sys
 
 ## 🚀 Quickstart
 
-1. **Clone the repo:**
 
 
-**
+
 git clone https://github.com/your-username/RAG-ollama.git
-**
+
 after you clone the setup
-**
+
 cd RAG-ollama
 
 docker-compose up --build
-**
+
 
 to test the setup
 
-**
+
 curl http://localhost:8000/query -X POST -H "Content-Type: application/json" -d '{"question": "What is RAG?"}'
-**
+
 
 ## 🧱 Features
 
