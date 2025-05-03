@@ -1,0 +1,7 @@
+Ollama is a tool that allows you to run large language models locally on your machine with ease. It supports models like LLaMA, Mistral, and others, enabling private and fast inference.
+
+LangChain is a framework to build applications powered by language models. It helps developers connect LLMs to data sources, reason over the data, and create chatbots, agents, and RAG systems.
+
+ChromaDB is an open-source embedding database. It is used to store and retrieve vector embeddings, making it a core part of many RAG applications.
+
+FastAPI is a modern web framework for building APIs with Python. It is used for building high-performance applications and integrates well with machine learning workflows.

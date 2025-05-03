@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+chromadb
+langchain-community
+python-multipart
+langchain-ollama
